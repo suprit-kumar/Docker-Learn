@@ -1,0 +1,8 @@
+.idea
+*.log
+*.pyc
+workspace.xml
+media/*
+myfirstapp/__pycache__/*
+DockerLearnONE/__pycache__/*
+__pycache__/*
